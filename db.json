@@ -1,0 +1,14 @@
+[
+  {
+    id: 1, 
+    title: 'Kahvila', 
+    detail: 'Next to sale there is a nice coffee place', 
+    image: 'some complex string here'
+  },
+  {
+    id: 2, 
+    title: 'Koti Pizza', 
+    detail: 'It's in Toppila.', 
+    image: 'some complex string here'
+  }
+]
