@@ -1,13 +1,13 @@
 {
   "mapData": [
               {
-                "id": 1, 
+                "id": 0, 
                 "title": "Kahvila", 
                 "detail": "Next to sale there is a nice coffee place", 
                 "image": "some complex string here"
               },
               {
-                "id": 2, 
+                "id": 1, 
                 "title": "Koti Pizza",
                 "detail": "Its in Toppila.", 
                 "image": "some complex string here"
